@@ -1,5 +1,8 @@
 # Protocole BOOTP (Bootstrap Protocol) - Guide Avancé
 
+<img width="1248" height="832" alt="OIG3 (13)" src="https://github.com/user-attachments/assets/f3098260-c23c-4224-b08d-a9ced9109773" />
+
+
 **Auteur : Hackers_tchad**  
 **Version : 1.0 - Avancé**  
 **Date : 2024**
