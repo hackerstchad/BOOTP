@@ -5,7 +5,7 @@
 
 **Auteur : Hackers_tchad**  
 **Version : 1.0 - Avancé**  
-**Date : 2024**
+**Date : 2026**
 
 ---
 
